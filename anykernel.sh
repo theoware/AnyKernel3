@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by cool585
+kernel.string=DxT-v4.3 by cool585
 do.devicecheck=1
 do.modules=0
 do.systemless=1
