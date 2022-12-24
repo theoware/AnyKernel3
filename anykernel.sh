@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Cybertron-v2.8 by cool585
+kernel.string=Cybertron-v3.0 by cool585
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=10.0-12.0
+supported.versions=10.0-13.0
 supported.patchlevels=
 '; } # end properties
 
